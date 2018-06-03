@@ -1,13 +1,16 @@
 # shjmy-vim
-contains my vimrc
+contains my vimr
+c
 ## Initialize
-run vimrc-init.sh
+N/A
 
 ## Update
 run vimrc-update.sh
 
 ## Delete
+N/A
 
 ## vimrc Features
 
-
+### vim-plug
+- solarized theme
