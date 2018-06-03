@@ -7,4 +7,3 @@ mv ~/.vimrc ~/.vimrc-prev
 
 # move new vimrc to ~/
 cp .vimrc ~/
-
