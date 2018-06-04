@@ -31,10 +31,15 @@ endif
 
 " vim-plug packages
 call plug#begin()
+Plug 'ctrlpvim/ctrlp.vim'
 Plug 'micha/vim-colors-solarized'
+Plug 'scrooloose/nerdtree'
 call plug#end()
 
 " theme
 set background=dark
 let g:solarized_termcolors=256
 colorscheme solarized
+
+" nerdtree settings
+map <C-n> :NERDTreeToggle<CR>

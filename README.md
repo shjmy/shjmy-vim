@@ -14,3 +14,8 @@ N/A
 
 ### vim-plug
 - solarized theme
+  - just a theme i liked
+- CtrlP
+  - fuzzy search
+- nerdtree
+    - file directory
