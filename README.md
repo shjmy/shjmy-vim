@@ -1,21 +1,31 @@
 # shjmy-vim
-contains my vimr
-c
-## Initialize
-N/A
+------
+contains my vimrc
 
 ## Update
+------
 run vimrc-update.sh
 
-## Delete
-N/A
+## vimrc 
+------
+### vim-plug packages
 
-## vimrc Features
+#### CtrlP
+https://github.com/ctrlpvim/ctrlp.vim
 
-### vim-plug
-- solarized theme
-  - just a theme i liked
-- CtrlP
-  - fuzzy search
-- nerdtree
-    - file directory
+provides fuzzy search for vim
+
+- toggle CtrlP: ctrl+p
+
+#### nerdtree
+https://github.com/scrooloose/nerdtree
+
+provides a visual file directory for navigation
+
+- toggle nerdtree: ctrl+n
+- switch panes: ctrl+w w
+
+#### Solarized
+https://github.com/altercation/vim-colors-solarized
+
+just a theme i liked.
