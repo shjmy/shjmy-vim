@@ -10,6 +10,13 @@ run vimrc-update.sh
 ------
 ### vim-plug packages
 
+### ack.vim
+recursive search for vim
+
+Note: Install ack for this to work
+
+Mac: brew install ack
+
 #### CtrlP
 https://github.com/ctrlpvim/ctrlp.vim
 

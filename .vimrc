@@ -33,6 +33,7 @@ endif
 call plug#begin()
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'micha/vim-colors-solarized'
+Plug 'mileszs/ack.vim'
 Plug 'scrooloose/nerdtree'
 call plug#end()
 
