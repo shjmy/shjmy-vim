@@ -1,4 +1,4 @@
-" shjmy vimrc
+"shjmy vimrc
 
 " enable syntax
 syntax enable
@@ -36,6 +36,7 @@ Plug 'ctrlpvim/ctrlp.vim'
 Plug 'micha/vim-colors-solarized'
 Plug 'mileszs/ack.vim'
 Plug 'scrooloose/nerdtree'
+Plug 'tpope/vim-fugitive'
 Plug 'valloric/youcompleteme'
 call plug#end()
 
