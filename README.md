@@ -10,7 +10,7 @@ run vimrc-update.sh
 ------
 ### vim-plug packages
 
-### ack.vim
+#### ack.vim
 recursive search for vim
 
 Note: Install ack for this to work
@@ -36,3 +36,13 @@ provides a visual file directory for navigation
 https://github.com/altercation/vim-colors-solarized
 
 just a theme i liked.
+
+#### YouCompleteMe
+https://valloric.github.io/YouCompleteMe/
+
+A code completion plugin that i came across
+
+#### vim-airline
+https://github.com/vim-airline/vim-airline
+
+a cool statusbar for vim

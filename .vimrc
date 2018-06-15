@@ -31,10 +31,12 @@ endif
 
 " vim-plug packages
 call plug#begin()
+Plug 'bling/vim-airline'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'micha/vim-colors-solarized'
 Plug 'mileszs/ack.vim'
 Plug 'scrooloose/nerdtree'
+Plug 'valloric/youcompleteme'
 call plug#end()
 
 " theme
