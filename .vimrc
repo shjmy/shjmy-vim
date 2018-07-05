@@ -40,9 +40,9 @@ Plug 'valloric/youcompleteme'
 call plug#end()
 
 " theme
-set background=dark
-let g:solarized_termcolors=256
-colorscheme solarized
+"set background=dark
+"let g:solarized_termcolors=256
+"colorscheme solarized
 
 " nerdtree settings
 map <C-n> :NERDTreeToggle<CR>
