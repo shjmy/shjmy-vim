@@ -24,6 +24,11 @@ provides fuzzy search for vim
 
 - toggle CtrlP: ctrl+p
 
+#### fugitive.vim
+https://github.com/tpope/vim-fugitive
+
+a git wrapper for vim
+
 #### nerdtree
 https://github.com/scrooloose/nerdtree
 
