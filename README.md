@@ -9,6 +9,8 @@ run vimrc-update.sh
 ## vimrc 
 ------
 ### vim-plug packages
+After plug is loaded remember to run the following command to install plug packages
+:PlugInstall 
 
 #### ack.vim
 recursive search for vim
@@ -46,6 +48,8 @@ just a theme i liked.
 https://valloric.github.io/YouCompleteMe/
 
 A code completion plugin that i came across
+
+Note: Remember to navigate to the youcompleteme folder in the plugged directory to run the install.py using python3
 
 #### vim-airline
 https://github.com/vim-airline/vim-airline
