@@ -37,7 +37,7 @@ Plug 'micha/vim-colors-solarized'
 Plug 'mileszs/ack.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
-Plug 'valloric/youcompleteme'
+Plug 'ajh17/vimcompletesme'
 call plug#end()
 
 " theme
