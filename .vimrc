@@ -38,6 +38,7 @@ Plug 'mileszs/ack.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
 Plug 'ajh17/vimcompletesme'
+Plug 'mattn/emmet-vim'
 call plug#end()
 
 " theme
