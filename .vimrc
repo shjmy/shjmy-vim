@@ -21,6 +21,9 @@ set showcmd
 " highlight current line
 set cursorline
 
+" allow for traditional backspace usage in insert mode
+set backspace=indent,eol,start
+
 " package manager installation
 " vimplug check and installation
 if empty(glob('~/.vim/autoload/plug.vim'))
