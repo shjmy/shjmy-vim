@@ -44,12 +44,12 @@ https://github.com/altercation/vim-colors-solarized
 
 just a theme i liked.
 
-#### YouCompleteMe
-https://valloric.github.io/YouCompleteMe/
+#### VimCompletesMe
+https://github.com/ajh17/VimCompletesMe
 
 A code completion plugin that i came across
 
-Note: Remember to navigate to the youcompleteme folder in the plugged directory to run the install.py using python3
+Replaced You Complete Me with Vim Completes Me since it seems a bit better
 
 #### vim-airline
 https://github.com/vim-airline/vim-airline
