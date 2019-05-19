@@ -36,7 +36,7 @@ endif
 call plug#begin()
 Plug 'bling/vim-airline'
 Plug 'ctrlpvim/ctrlp.vim'
-Plug 'micha/vim-colors-solarized'
+Plug 'aonemd/kuroi.vim'
 Plug 'mileszs/ack.vim'
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
@@ -45,9 +45,9 @@ Plug 'mattn/emmet-vim'
 call plug#end()
 
 " theme
-"set background=dark
-"let g:solarized_termcolors=256
-"colorscheme solarized
+set background=dark
+set t_Co=256
+colorscheme kuroi
 
 " nerdtree settings
 map <C-n> :NERDTreeToggle<CR>
